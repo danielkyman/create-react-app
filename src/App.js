@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Create React App + Go API</h1>
+      <h1>Create React App + Go API - TEST BRANCH</h1>
       <h2>
         Deployed with{" "}
         <a
@@ -42,12 +42,7 @@ function App() {
         <code>/src</code> for components and content, and <code>/api</code>{" "}
         which contains a serverless <a href="https://golang.org/">Go</a>{" "}
         function. See{" "}
-        <a href="/api/date">
-          <code>api/date</code> for the Date API with Go
-        </a>
-        .
       </p>
-      <br />
     </main>
   );
 }
